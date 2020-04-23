@@ -18,3 +18,5 @@ Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-sti
 ## License
 
 This software is licensed under the MIT License. See the [license file](LICENSE) for details.  
+The following URL can help you to further understand the ESP8266 board https://xinabox.cc
+thanks to all contriburers of this fork
